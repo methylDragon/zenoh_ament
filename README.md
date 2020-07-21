@@ -1,7 +1,7 @@
 # zenoh_ament
 Ament wrapper package for the zenoh.io FFI
 
-Wraps the headers and compiled static library for the [`rust-master` branch of the `zenoh-net` middleware](https://github.com/atolab/eclipse-zenoh/tree/rust-master).
+Wraps the headers and compiled static library for the [`rust-master` branch of the `zenoh-net` middleware interface](https://github.com/atolab/eclipse-zenoh/tree/rust-master).
 
 
 
